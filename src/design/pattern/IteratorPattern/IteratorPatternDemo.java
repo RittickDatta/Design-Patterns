@@ -1,8 +1,6 @@
 package design.pattern.IteratorPattern;
 
-/**
- * Created by Rittick on 4/29/2017.
- */
+
 public class IteratorPatternDemo {
 
     public static void main(String[] args) {
